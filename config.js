@@ -6,12 +6,12 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "PUF3yBiB#RTmUWv4kEz35llTj1i3QOMdPJgE3QNMyS8_--Q9Bn6Y",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "2348078582627",
+    SESSION_ID: process.env.SESSION_ID || "Dc1HFbyT#ExWIhINhWR_uOJL2HblaUcNKDI9QA4JttQCwkDskUAQ",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2630713551833",
     AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "false",
     MODE: process.env.MODE || "private",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/r4decc.jpg",
-    PREFIX: process.env.PREFIX || ".",
+    PREFIX: process.env.PREFIX || "1",
     OWNER_REACT: process.env.OWNER_REACT || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     OWNER_NAME: process.env.OWNER_NAME || "𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐞𝐦𝐩𝐢𝐫𝐞",
